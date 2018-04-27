@@ -1,5 +1,5 @@
 # sorting.c 
-    (Array Sorting)
+    # Array Sorting
 
         1. Selection Sorting
         2. Bubble Sorting
@@ -8,6 +8,6 @@
         5. Quick Sorting
 
 # heap.c 
-    (Tree Sorting)
+    # Tree Sorting
 
         1. Max Heap Sorting
