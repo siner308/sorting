@@ -8,4 +8,4 @@
 
 # heap.c
 
-Max Heap Sorting
+1. Max Heap Sorting
